@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "2025 Bentley Continental GT Hybrid_ A Luxurious Step Towards Electrification - GTspirit.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2025 Bentley Continental GT Hybrid_ A Luxurious Step Towards Electrification - GTspirit 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "2025 Bentley Continental GT Hybrid_ A Luxurious Step Towards Electrification - GTspirit 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

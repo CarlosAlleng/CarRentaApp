@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Lamborghini Huracan LP640-4 Performante Spyder.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Lamborghini Huracan LP640-4 Performante Spyder 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Lamborghini Huracan LP640-4 Performante Spyder 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

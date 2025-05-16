@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "2025 Mercedes-Benz GLE .jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2025 Mercedes-Benz GLE  1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "2025 Mercedes-Benz GLE  2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

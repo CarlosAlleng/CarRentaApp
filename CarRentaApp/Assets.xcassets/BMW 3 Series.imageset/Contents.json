@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Say Hello To The 2023 BMW 3 Series.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Say Hello To The 2023 BMW 3 Series 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Say Hello To The 2023 BMW 3 Series 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

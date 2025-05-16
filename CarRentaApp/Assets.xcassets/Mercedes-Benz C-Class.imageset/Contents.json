@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Meet the 2024 Mercedes CLE, the Heir to the C-Class and E-Class Throne.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Meet the 2024 Mercedes CLE, the Heir to the C-Class and E-Class Throne 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Meet the 2024 Mercedes CLE, the Heir to the C-Class and E-Class Throne 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
